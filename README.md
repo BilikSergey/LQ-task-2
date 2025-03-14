@@ -21,7 +21,7 @@ npm install @faker-js/faker
 - Clone the project:
 
 ```bash
-git clone https://github.com/BilikSergey/Task-2.git
+git clone https://github.com/BilikSergey/LQ-task-2.git
 ```
 
 - Install dependencies:
